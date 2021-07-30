@@ -39,4 +39,4 @@ Note: Include the following conf for collection of streaming metrics during spar
 2. import dashboard.json at http://localhost:3000/dashboard/import  
 
 ## Example Dashboard
-![spark-metrics-dashboard-example-screenshot](screenshot.PNG)
+![spark-metrics-dashboard-example-screenshot](screenshot.png)
